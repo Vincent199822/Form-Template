@@ -89,4 +89,11 @@ textarea {
   border: none;
   border-radius: 6px;
   padding: 12px 20px;
+  font-size: 1.1rem;
+  display: block;
+  margin: auto;
+}
+
+.submit-btn:hover {
+  background-color: midnightblue;
 }
